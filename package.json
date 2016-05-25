@@ -1,0 +1,23 @@
+{
+  "name": "mechatronics",
+  "version": "1.0.0",
+  "description": "Practices of the subject \"mechatronics and aerospace systems\"",
+  "main": "udpServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franlu/mechatronics.git"
+  },
+  "author": "Fco Javier Lucena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franlu/mechatronics/issues"
+  },
+  "homepage": "https://github.com/franlu/mechatronics#readme",
+  "dependencies": {
+    "bower": "^1.7.9",
+    "moment": "^2.13.0"
+  }
+}
